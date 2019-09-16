@@ -1,2 +1,2 @@
 # nyc-airbnb
-Predicting airbnb rental prices from geographical data
+Predicting New York city airbnb rental prices from geographical data
